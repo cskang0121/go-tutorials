@@ -1,0 +1,5 @@
+Bill Breakdown:
+coffee:   ...$1.99
+waffle:   ...$3.99
+tip:      ...$0
+total:    ...$5.98
